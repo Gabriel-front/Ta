@@ -7,16 +7,13 @@ body{
     font-size: medium;
     
 }
-h1{
-    padding-top: 20px;
-    padding-left: 350px;
-    display: inline;
-}
+
 .container{
     display: flex;
     align-items: center;
+   justify-content: center;
+    flex-direction: column;
     margin-top: 30vh;
-    padding-left: 30vh;
     
 }
 
